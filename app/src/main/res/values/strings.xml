@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clouddy</string>
+    <string name="later_today_text">Later today</string>
+    <string name="retry_text">Retry</string>
+    <string name="tomorrow_text">Tomorrow</string>
+    <string name="current_location_string">New Delhi</string>
+    <string name="description">Localized Description</string>
+    <string name="developer_name">Developed by Pranav Tiwari</string>
+</resources>
