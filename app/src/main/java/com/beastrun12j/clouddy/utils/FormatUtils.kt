@@ -63,7 +63,6 @@ fun formatDateParts(date: String): String {
     val formattedDateNumber = datePartsArray[2]
     val formattedMonth = mapMonthNumberToName(datePartsArray[1])
     val formattedDay = getWeekDayName(date)
-    Timber.e(datePartsArray[1])
     return "${formattedDay}, $formattedDateNumber $formattedMonth"
 }
 
@@ -80,7 +79,6 @@ fun getDateFromDateTime(dateTime: String): String {
 fun getTimeFromDateTime(dateTime: String): String {
     var i = 0
     while (dateTime[i] != 'T') i++
-    Timber.e(dateTime.substring(i + 1, dateTime.length))
     return dateTime.substring(i + 1, dateTime.length)
 }
 
