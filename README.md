@@ -8,7 +8,7 @@
 <h4 align="center">Daily Weather Forecast App built with Jetpack Compose</h4>
 
   <p align="center">
-    <a href="https://github.com/beastrun12j/Clouddy/blob/master/Images/Demo.mp4">View Demo</a>
+    <a href="https://youtu.be/Jrq3Hc7pEA0">View Demo</a>
     ·
     <a href="https://github.com/beastrun12j/Clouddy/issues">Report Bug</a>
   </p>
